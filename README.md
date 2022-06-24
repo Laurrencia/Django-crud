@@ -1,1 +1,1 @@
-# Java-crud
+# django-crud
